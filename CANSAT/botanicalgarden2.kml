@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="9">
+        <Placemark id="11">
+            <name>Kirstenbosch</name>
+            <Point id="10">
+                <coordinates>18.432314,-33.988862,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Kirstenbosch11</name>
+            <Point id="12">
+                <coordinates>18.432315,-50.988862,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>Kirstenbosch11</name>
+            <Point id="14">
+                <coordinates>133.432315,-50.988862,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

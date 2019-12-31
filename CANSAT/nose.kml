@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <kml xmlns="http://www.opengis.net/kml/2.2">
+          <Document>
+            <name>Paths</name>
+            <description>Examples of paths. Note that the tessellate tag is by default
+              set to 0. If you want to create tessellated lines, they must be authored
+              (or edited) directly in KML.</description>
+
+            <Style id="greenLineGreenPoly">
+              <LineStyle>
+                <color>5014F00A</color>
+                <width>4</width>
+              </LineStyle>
+              <PolyStyle>
+                <color>5014F00A</color>
+              </PolyStyle>
+            </Style>
+
+    
+            <Placemark>
+              <name>Nose cone</name>
+              <styleUrl>#greenLineGreenPoly</styleUrl>
+              <LineString>
+                <extrude>1</extrude>
+                <tessellate>1</tessellate>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>    100.9122,15.036072,132.92
+
+                </coordinates>
+              </LineString>
+            </Placemark>
+
+           
